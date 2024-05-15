@@ -13,9 +13,9 @@
 **Prefixos com Verbo:** Muitas vezes, funções realizam ações, então é útil iniciar o nome da função com um verbo que descreve essa ação, como obter_, calcular_, processar_, validar_ ou limpar_.
 
 
-## Função Padrão
+### Função Padrão
 
-![alt text](image.png)
+![alt text](src\image.png)
 
 - **"def":** define uma função
 - **nome_da_funcao:** Nome atribuido da função.
@@ -24,5 +24,16 @@
 - **return:** *return* é uma palavra reservada e indica o output da função. No python, esse elemento é opcional. 
 
 
-## Exemplo Prático 1
+### Exemplo Prático 1
+
+![alt text](src\image-1.png)
+
+
+
+### Exemplo Prático 2
+
+
+
+## Tipagem de Parâmetros
+
 
